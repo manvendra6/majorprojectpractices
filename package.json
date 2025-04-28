@@ -1,0 +1,20 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "major",
+    "project",
+    "and",
+    "practices",
+    "for",
+    "the",
+    "backend"
+  ],
+  "author": "manvendra patel",
+  "license": "ISC",
+  "description": ""
+}
